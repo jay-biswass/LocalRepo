@@ -2,7 +2,12 @@ p {
     color: chartreuse;
     background: #0e01ff;
 }
+
+p{
+    color: yellow;
+    background-color: red;
 h1 {
     color: crimson;
     background-color: blueviolet;
+
 }
